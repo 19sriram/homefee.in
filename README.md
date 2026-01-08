@@ -4,6 +4,7 @@
 3. Prisma
 4. Node.js
 5. PostgreSQL
+6. PNPM
 
 ## AI
 Using claude to handle the setup. It's been useful so far with initial setting up of tailwind and helping with errors. But what's the fun if it does all the coding right ?
@@ -14,3 +15,6 @@ Using claude to handle the setup. It's been useful so far with initial setting u
 ## Improvements
 1. Error boundary
 2. SSR - Server side rendering for initial load
+
+## Installation
+1. Check package.json. It has the details. Will be adding DEV_NOTES.md sooner which explains with granularity
